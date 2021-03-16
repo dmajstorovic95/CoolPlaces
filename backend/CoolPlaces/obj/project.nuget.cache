@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukSB0jtmol9D7/oDWkaR7kcqGAl8wa7YP3w7nDaJR1vVElGIweI6QMAzDQ30R78pA5ghqDyjuXxBP1m/vjprJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dmajs\\source\\repos\\CoolSpots\\backend\\CoolSpots\\CoolSpots.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmajs\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dmajs\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dmajs\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\dmajs\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\dmajs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\dmajs\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
